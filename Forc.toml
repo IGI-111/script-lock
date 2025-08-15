@@ -1,0 +1,9 @@
+[project]
+authors = ["igi-111"]
+entry = "main.sw"
+license = "MIT"
+name = "script-lock"
+version = "0.1.0"
+repository = "https://github.com/IGI-111/script-lock"
+
+[dependencies]
